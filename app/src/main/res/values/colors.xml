@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F4F4F4</color> <!-- 浅灰色背景 -->
+    <color name="textColor">#333333</color> <!-- 深灰色文本颜色 -->
+    <color name="buttonColor">#6200EA</color> <!-- 紫色按钮背景 -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- 白色按钮文本颜色 -->
+</resources>
