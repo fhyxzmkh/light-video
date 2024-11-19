@@ -13,9 +13,9 @@ public class MysqlHelp {
     private static final String TAG = "MysqlHelp";
 
     private static final String CLS = "com.mysql.jdbc.Driver";
-    private static final String URL = "jdbc:mysql://101.43.35.186:3306/light_video?characterEncoding=UTF-8";
-    private static final String USER = "root";
-    private static final String PWD = "mysql-root-makehan312";
+    private static final String URL = "jdbc:mysql://ip:port/db_name?characterEncoding=UTF-8";
+    private static final String USER = "username";
+    private static final String PWD = "password";
 
     // 创建表 user（如果不存在）
     public static void createUserTableIfNotExists() {
